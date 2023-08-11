@@ -1,0 +1,78 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/abnormal-urea-and-electrolytes-m1---primary.py
+inputModule3:
+  class: File
+  path: python/urea-and-electrolytes-m1-serum---primary.py
+inputModule4:
+  class: File
+  path: python/urea---primary.py
+inputModule5:
+  class: File
+  path: python/urea-and-electrolytes-m1-blood---primary.py
+inputModule6:
+  class: File
+  path: python/urea-and-electrolytes-m1-potassium---primary.py
+inputModule7:
+  class: File
+  path: python/urea-and-electrolytes-m1-raised---primary.py
+inputModule8:
+  class: File
+  path: python/urea-and-electrolytes-m1-sodium---primary.py
+inputModule9:
+  class: File
+  path: python/urea-and-electrolytes-m1-chloride---primary.py
+inputModule10:
+  class: File
+  path: python/urea-and-electrolytes-m1-bicarbonate---primary.py
+inputModule11:
+  class: File
+  path: python/urea-and-electrolytes-m1-calcium---primary.py
+inputModule12:
+  class: File
+  path: python/inorganic-urea-and-electrolytes-m1---primary.py
+inputModule13:
+  class: File
+  path: python/urea-and-electrolytes-m1-phosphate---primary.py
+inputModule14:
+  class: File
+  path: python/urea-and-electrolytes-m1-anion---primary.py
+inputModule15:
+  class: File
+  path: python/urea-and-electrolytes-m1-corrected---primary.py
+inputModule16:
+  class: File
+  path: python/urea-and-electrolytes-m1-ionised---primary.py
+inputModule17:
+  class: File
+  path: python/urea-and-electrolytes-m1---primary.py
+inputModule18:
+  class: File
+  path: python/urea-and-electrolytes-m1-function---primary.py
+inputModule19:
+  class: File
+  path: python/urea-and-electrolytes-m1-creatinine---primary.py
+inputModule20:
+  class: File
+  path: python/urea-and-electrolytes-m1-osmolality---primary.py
+inputModule21:
+  class: File
+  path: python/renal-urea-and-electrolytes-m1---primary.py
+inputModule22:
+  class: File
+  path: python/urea-and-electrolytes-m1-excretion---primary.py
+inputModule23:
+  class: File
+  path: python/urea-and-electrolytes-m1-albumin---primary.py
+inputModule24:
+  class: File
+  path: python/urea-and-electrolytes-m1-plasma---primary.py
+inputModule25:
+  class: File
+  path: python/urea-and-electrolytes-m1-abbreviated---primary.py
+inputModule26:
+  class: File
+  path: python/output-cases.py
